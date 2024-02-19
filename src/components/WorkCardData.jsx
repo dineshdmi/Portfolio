@@ -8,13 +8,13 @@ const ProjectCardData = [
     title: "My Portfolio",
     text: "Personal webpage build with React Fully Responsive",
     view: "/",
-    source: "https://github.com/AniruddhaGaud/My_Portfolio",
+    source: "https://github.com/dineshdmi/Portfolio",
   },
   {
     imgsrc: pro2,
     title: "Car Rent",
     text: "Car rent service build with react fully responsive.",
-    view: "https://tripkaro-anni.onrender.com/",
+    view: "https://carrentsidhaman.netlify.app/home",
     source: "https://github.com/dineshdmi/Car_Rent",
   },
   {
