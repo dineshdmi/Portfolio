@@ -55,7 +55,7 @@ const Footer = () => {
               size={30}
               style={{ color: "white", marginRight: "1rem" }}
             />
-            <a href="https://www.linkedin.com/feed/" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/dinesh-mahajan-566040235" target="_blank" rel="noopener noreferrer">
               <FaLinkedin
                 size={30}
                 style={{ color: "white", marginRight: "1rem" }}
