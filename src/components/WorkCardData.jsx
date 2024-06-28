@@ -7,7 +7,7 @@ const ProjectCardData = [
     imgsrc: pro3,
     title: "My Portfolio",
     text: "Personal webpage build with React Fully Responsive",
-    view: "/",
+    view: "https://dineshdm.netlify.app/",
     source: "https://github.com/dineshdmi/Portfolio",
   },
   {
@@ -19,8 +19,8 @@ const ProjectCardData = [
   },
   {
     imgsrc: pro1,
-    title: "Boodmo",
-    text: "India's biggest online marketplace for car spare parts.",
+    title: "Mizoram Library Management",
+    text: "Library Management System.",
     view: "https://boodmo.netlify.app/",
     source: "https://github.com/dineshdmi/Boodmo",
   },
