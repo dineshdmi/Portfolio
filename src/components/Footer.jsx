@@ -55,10 +55,12 @@ const Footer = () => {
               size={30}
               style={{ color: "white", marginRight: "1rem" }}
             />
-            <FaLinkedin
-              size={30}
-              style={{ color: "white", marginRight: "1rem" }}
-            />
+            <a href="https://www.linkedin.com/feed/" target="_blank" rel="noopener noreferrer">
+              <FaLinkedin
+                size={30}
+                style={{ color: "white", marginRight: "1rem" }}
+              />
+            </a>
           </div>
         </div>
       </div>
